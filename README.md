@@ -25,5 +25,5 @@
 <br />
 <br />
 
-[website]: https://bartrybak.com
+[website]: http://www.bartrybak.com/
 [linkedin]: https://www.linkedin.com/in/bart-rybak/
