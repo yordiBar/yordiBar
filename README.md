@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="yordiBar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yordiBar&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="yordiBar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yordiBar&show_icons=true&hide_border=true&theme=dark"/>
 
 [website]: http://www.bartrybak.com/
 [linkedin]: https://www.linkedin.com/in/bart-rybak/
